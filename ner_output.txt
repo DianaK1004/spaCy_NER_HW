@@ -1,0 +1,95 @@
+Named Entities in text_1.txt:
+Friday 2 April 1982	 : DATE
+Argentina	 : GPE
+British	 : NORP
+the Falkland Islands	 : GPE
+Britain	 : GPE
+Britain	 : GPE
+Margaret Thatcher	 : PERSON
+8,000 miles	 : QUANTITY
+12,900 km	 : QUANTITY
+the South Atlantic	 : LOC
+the next 10 weeks	 : DATE
+649	 : CARDINAL
+Argentine	 : NORP
+255	 : CARDINAL
+British	 : NORP
+three	 : CARDINAL
+Falkland Islanders	 : NORP
+Forty years	 : DATE
+Tamsin McLeod	 : PERSON
+London	 : GPE
+BBC	 : ORG
+
+Named Entities in text_2.txt:
+Raphael	 : ORG
+Drawing the Italian Renaissance	 : ORG
+The King's Gallery	 : ORG
+Buckingham Palace	 : FAC
+1450	 : DATE
+1600	 : DATE
+UK	 : GPE
+150	 : CARDINAL
+Drawing The Italian Renaissance	 : ORG
+the King's Gallery	 : FAC
+Buckingham Palace	 : FAC
+Renaissance	 : ORG
+Leonardo da Vinci	 : PERSON
+Michelangelo	 : PERSON
+Raphael	 : PERSON
+Titian	 : NORP
+the Royal Collection	 : ORG
+the 17th Century	 : DATE
+Charles II	 : PERSON
+more than 30	 : CARDINAL
+first	 : ORDINAL
+Italian	 : NORP
+1450	 : DATE
+1600	 : CARDINAL
+UK	 : GPE
+
+Named Entities in text_3.txt:
+South Korea's	 : GPE
+Yook Suk Yeol	 : PERSON
+weeks	 : DATE
+64-year-old	 : DATE
+South Korea	 : GPE
+3 December	 : DATE
+first	 : ORDINAL
+Yoon	 : PERSON
+14 December	 : DATE
+The Central Investigation Office for High-ranking	 : ORG
+Yoon	 : LOC
+Yoon	 : ORG
+CIO	 : ORG
+15 January	 : DATE
+12 days	 : DATE
+the Presidential Security Service	 : ORG
+PSS	 : ORG
+Seoul	 : GPE
+
+Named Entities in text_4.txt:
+17th Century	 : DATE
+Europe	 : LOC
+Michelangelo Merisi da	 : PERSON
+Caravaggio	 : NORP
+Peter Paul Rubens	 : PERSON
+Afghanistan	 : GPE
+the 19th Century	 : DATE
+
+Named Entities in text_5.txt:
+Georgian	 : NORP
+Giorgia Gakharia	 : PERSON
+Georgian Dream	 : ORG
+Gakharia	 : GPE
+Batumi	 : GPE
+the Black Sea	 : LOC
+Caucasus	 : ORG
+the months	 : DATE
+Georgia	 : GPE
+late October	 : DATE
+every night	 : TIME
+Georgian	 : NORP
+a month later	 : DATE
+the European Union	 : ORG
+
